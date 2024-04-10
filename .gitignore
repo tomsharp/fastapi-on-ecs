@@ -1,0 +1,7 @@
+*.venv
+*__pycache__
+*.env
+*.env.sh
+*backend.tf
+*.terraform*
+*terraform.*
